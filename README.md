@@ -1,3 +1,80 @@
+# ReactJS_calculator_task_A
+![WhatsApp Image 2023-08-13 at 23 09 36](https://github.com/lacegiovanni17/ReactJS_CardGame_task_B/assets/30509335/fd0d6505-4fc9-429a-a268-54e1b8f1918b)
+### [Live Site]()
+
+## About
+* 👋 Hi, I’m Chidike Henry 
+* 😎 I’m a MERN full-stack engineer
+* 💻 This is a frontend ReactJS code for a card game
+* 💞️ I’m looking to collaborate on JS projects 
+* 📫 How to reach me chidike.henry@gmail.com
+
+## Introduction
+The purpose of this assessment is to evaluate my abilities in creating a frontend application for a card game that renders game card, the properties should include: color, value, and flipped (show the value or not)
+This project will allow you to assess my proficiency in fronted development, javascript, ReactJS, and my problem-solving approach.
+
+## Technologies Used
+* ReactJS
+* Javascript
+* npm
+* HTML
+* CSS
+
+## Project Description: 
+
+B - Create HTML page to show game cards:
+● Create a component to draw a game card, the properties should include: color, value, and flipped (show the value or not)
+● Create a deck to show a group of cards (8 cards of each type and color)
+● If the user clicks on a card, the card should flip
+● Use SVG icons from below
+● https://icons.getbootstrap.com/icons/heart-fill/
+● https://icons.getbootstrap.com/icons/suit-spade-fill/
+● https://icons.getbootstrap.com/icons/suit-club-fill/
+● https://icons.getbootstrap.com/icons/suit-diamond-fill/
+ 
+
+## Getting Started
+## ReactJS_calculator_task_A Setup Guide
+Follow these steps to set up and run the ReactJS_calculator_task_B:
+
+## Prerequisites
+1. Ensure you have Node.js installed on your machine. You can download it from nodejs.org.
+## Installation
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd react_task_b`
+3. Install dependencies: `npm install`
+4. note: the public folder contains all pictures necessary for the frontend
+
+## Running the App from your terminal
+1. From the terminal make sure you're in the root directory called react_task_b 
+2. From the react_task_b folder run the following command to render the front-end: `npm start`
+3. The server will be running at http://localhost:3000.
+
+   
+
+## Testing
+The application includes comprehensive unit tests to ensure reliability and functionality. Run tests using the following command: `npm test`
+
+With these instructions, developers and users will be able to quickly set up and run the Flight Booking Backend App for testing and development purposes.
+
+## Author
+
+#### 👤 Author1
+- GitHub: [@lacegiovanni17]https://github.com/lacegiovanni17
+- Twitter: [@ChidikeC] https://twitter.com/ChidikeC
+- LinkedIn: [LinkedIn]https://www.linkedin.com/in/chidike-chizoba-25628a40/
+
+## Contributing 
+Contributions, issues, critics and feature requests are welcome!
+
+## Show your support
+Please give a ⭐️ if you like this project! 
+
+## Acknowledgments
+- Hat tip to school
+- Inspiration
+- etc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,42 +106,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
